@@ -18,7 +18,7 @@ class ProfillScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Center(
-              child: Text('SELAMAT DATANG PADA HALAMAN PROFIL', 
+              child: Text('SELAMAT DATANG PADA HALAMAN PROFIL test', 
                 style: TextStyle(fontSize: 30, fontWeight:FontWeight.bold),
                 textAlign:TextAlign.center,),
             ), 
